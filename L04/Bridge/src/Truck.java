@@ -1,14 +1,13 @@
 class Truck extends Vehicle {
-public Truck(Workshop w1, Workshop w2)
-    { 
-        super(w1, w2); 
-    } 
-  
-    @Override public void manufacture() 
-    { 
+    public Truck(Workshop w1, Workshop w2) {
+        super(w1, w2);
+    }
+
+    @Override
+    public void manufacture() {
         System.out.print("Truck ");
-        w1.work(); 
-        w2.work(); 
-    } 
-  
+        w1.work();
+        w2.work();
+    }
+
 } 
