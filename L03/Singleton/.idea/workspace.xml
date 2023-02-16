@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="026e03b6-dc47-4c1c-8e9a-b0cf27f2717e" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Singleton.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/a/instance/demo/Demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/a/instance/demo/Logger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/b/singleton/logger/Demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/b/singleton/logger/Logger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/c/bank/demo/BankAccount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/c/bank/demo/Demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/e/mutithread/demo/Demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/e/mutithread/demo/LoggerTask.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/f/threadsafe/singleton/Logger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/g/threadsafe/demo/Demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/g/threadsafe/demo/LoggerTask.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2LQBe6lIVd72eG3dsG0ALGCHDPr" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/nidjosep/MyDrive/code/Singleton/src&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.g.threadsafe.demo" />
+      <recent name="com.f.threadsafe.singleton" />
+      <recent name="com.e.mutithread.demo" />
+      <recent name="com.b.singleton.logger" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Demo">
+    <configuration name="Demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.g.threadsafe.demo.Demo" />
+      <module name="Singleton" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.g.threadsafe.demo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="com.a.instance.demo.Demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.a.instance.demo.Demo" />
+      <module name="Singleton" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.a.instance.demo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="com.b.singleton.logger.Demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.b.singleton.logger.Demo" />
+      <module name="Singleton" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.b.singleton.logger.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="com.c.bank.demo.Demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.c.bank.demo.Demo" />
+      <module name="Singleton" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.c.bank.demo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="com.e.mutithread.demo.Demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.e.mutithread.demo.Demo" />
+      <module name="Singleton" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.e.mutithread.demo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Demo" />
+        <item itemvalue="Application.com.e.mutithread.demo.Demo" />
+        <item itemvalue="Application.com.c.bank.demo.Demo" />
+        <item itemvalue="Application.com.b.singleton.logger.Demo" />
+        <item itemvalue="Application.com.a.instance.demo.Demo" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="026e03b6-dc47-4c1c-8e9a-b0cf27f2717e" name="Changes" comment="" />
+      <created>1675793518023</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1675793518023</updated>
+      <workItem from="1675793519082" duration="3916000" />
+      <workItem from="1675799240422" duration="4570000" />
+      <workItem from="1675804370096" duration="4081000" />
+      <workItem from="1676266500495" duration="16164000" />
+      <workItem from="1676327172656" duration="6129000" />
+      <workItem from="1676347997313" duration="210000" />
+      <workItem from="1676348681611" duration="758000" />
+      <workItem from="1676423904513" duration="881000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/f/threadsafe/singleton/Logger.java</url>
+          <line>19</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
