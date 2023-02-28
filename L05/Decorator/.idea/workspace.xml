@@ -5,23 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1d53ed66-5189-4795-8aad-fca8d37fe8cf" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Decorator.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Artefact.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Demo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Editor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/org/designpatterns/decorator/Artefact.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/org/designpatterns/decorator/BaseComponentDecorator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/org/designpatterns/decorator/Component.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/org/designpatterns/decorator/Demo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/org/designpatterns/decorator/Editor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/org/designpatterns/decorator/ErrorComponentDecorator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/org/designpatterns/decorator/MainComponentDecorator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../L04/Adapter/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../L04/Adapter/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../L04/Bridge/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../L04/Bridge/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Composite/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Composite/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Composite/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Composite/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,7 +24,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -113,7 +100,7 @@
       <workItem from="1676918408608" duration="2662000" />
       <workItem from="1677008417604" duration="13000" />
       <workItem from="1677011958345" duration="928000" />
-      <workItem from="1677602594944" duration="735000" />
+      <workItem from="1677602594944" duration="1557000" />
     </task>
     <servers />
   </component>
