@@ -1,7 +1,7 @@
 package com.designpattern.proxy;
 
 public class ProductProxy extends Product {
-    private DbContext context;
+    private final DbContext context;
 
     public ProductProxy(int id, DbContext context) {
         super(id);

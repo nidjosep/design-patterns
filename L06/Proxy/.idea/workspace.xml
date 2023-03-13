@@ -5,19 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="680db6c3-c4c1-42a9-a757-9f5072c5dcbd" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Proxy.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DbContext.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Demo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Product.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/designpattern/proxy/DbContext.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/designpattern/proxy/Demo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/designpattern/proxy/Product.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/designpattern/proxy/ProductProxy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Facade/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Facade/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Facade/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Facade/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Flyweight/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Flyweight/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Flyweight/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Flyweight/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,7 +23,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -53,6 +44,7 @@
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
@@ -101,7 +93,8 @@
       <workItem from="1677611034952" duration="726000" />
       <workItem from="1677615315670" duration="3562000" />
       <workItem from="1678731781364" duration="1283000" />
-      <workItem from="1678737696877" duration="1173000" />
+      <workItem from="1678737696877" duration="2022000" />
+      <workItem from="1678741980241" duration="431000" />
     </task>
     <servers />
   </component>
