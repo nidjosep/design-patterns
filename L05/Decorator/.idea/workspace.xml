@@ -61,7 +61,7 @@
       <recent name="org.designpatterns.decorator" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Demo (1)">
+  <component name="RunManager" selected="Application.Demo">
     <configuration name="Demo (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Demo" />
       <module name="Decorator" />
@@ -84,8 +84,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Demo (1)" />
         <item itemvalue="Application.Demo" />
+        <item itemvalue="Application.Demo (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -100,7 +100,7 @@
       <workItem from="1676918408608" duration="2662000" />
       <workItem from="1677008417604" duration="13000" />
       <workItem from="1677011958345" duration="928000" />
-      <workItem from="1677602594944" duration="1557000" />
+      <workItem from="1677602594944" duration="6785000" />
     </task>
     <servers />
   </component>

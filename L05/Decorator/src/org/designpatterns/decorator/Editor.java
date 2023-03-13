@@ -7,9 +7,8 @@ public class Editor {
                 new Artefact("Demo"),
                 new ErrorComponentDecorator(new Artefact("EmailClient")),
                 new MainComponentDecorator(new Artefact("EmailProvider")),
-                new ErrorComponentDecorator(
-                        new MainComponentDecorator(new Artefact("DuplicateMainWithErrorClass"))
-                ),
+                //just an example to show we can apply multiple decorators
+                new ErrorComponentDecorator(new MainComponentDecorator(new Artefact("DuplicateMainWithErrorClass"))),
         };
 
         for (var renderer : components)
