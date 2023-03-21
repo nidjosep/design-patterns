@@ -5,13 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f4813d95-a416-4d53-bbc3-9acb8bcb7ded" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MinMaxIterator.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../L06/Facade/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../L06/Facade/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../L06/Flyweight/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../L06/Flyweight/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../L06/Proxy/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../L06/Proxy/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,7 +15,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -76,11 +72,22 @@
       <workItem from="1678815178345" duration="1494000" />
       <workItem from="1678820848941" duration="8000" />
       <workItem from="1679424655896" duration="101000" />
-      <workItem from="1679433454167" duration="556000" />
+      <workItem from="1679433454167" duration="3243000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/designpatterns/iterator/Demo.java</url>
+          <line>29</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

@@ -1,9 +1,8 @@
 package com.designpatterns.iterator;
 
 public interface Iterator<T> {
-    boolean hasNext();
 
-    T next();
+  boolean hasNext();
 
-    void remove();
+  T next();
 }
