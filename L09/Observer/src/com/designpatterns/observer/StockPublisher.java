@@ -1,4 +1,4 @@
-package com.designpatterns;
+package com.designpatterns.observer;
 
 public interface StockPublisher {
   void addObserver(StockObserver observer);
